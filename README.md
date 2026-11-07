@@ -1,4 +1,4 @@
-This project was part of the course Economic Policy with Dr. Schnetzer.
+This project was part of the course Economic Policy with Dr. Matthias Schnetzer.
 
 We did a sort of in-class mini-Hackathon, where we formed groups of 3 and were given the task to create any graph about the current state of the Maastricht Rules within 90 minutes.
 
